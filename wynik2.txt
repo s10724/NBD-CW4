@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/fjppuBQwMKgLZjAlMuaxMqxxmn+FLwsA
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s10724>; rel="up"
+Last-Modified: Wed, 20 Jun 2018 21:27:08 GMT
+ETag: "4jqS817lHJqJDMTwijSfFu"
+Date: Wed, 20 Jun 2018 21:29:13 GMT
+Content-Type: application/json
+Content-Length: 76
+
+{"name": "Jan Kowalski", "nationality": "Poland", "age": 25, "isHappy":true}

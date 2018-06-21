@@ -1,0 +1,8 @@
+curl: (6) Could not resolve host: xn--xput-z86a
+HTTP/1.1 201 Created
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Location: /buckets/s10724/keys/qcVHp710XBKdVl1IuOvnxHYYBj
+Date: Thu, 21 Jun 2018 16:38:49 GMT
+Content-Type: application/json
+Content-Length: 0

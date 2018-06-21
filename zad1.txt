@@ -1,0 +1,5 @@
+curl –XPUT -H "Content-Type: application/json" -d '{"name": "Jan Kowalski", "nationality": "Poland", "age": 25, "isHappy":true}'  http://localhost:8098/buckets/s10724/keys/Kowalski -i
+curl –XPUT -H "Content-Type: application/json" -d '{"name": "Adam Nowak", "nationality": "Poland", "age": 35, "isHappy":true}'  http://localhost:8098/buckets/s10724/keys/Nowak -i
+curl –XPUT -H "Content-Type: application/json" -d '{"name": "John Smith", "nationality": "England", "age": 24, "isHappy":true}'  http://localhost:8098/buckets/s10724/keys/Smith -i
+curl –XPUT -H "Content-Type: application/json" -d '{"name": "Jacek Kowal", "nationality": "Poland", "age": 19, "isHappy":false}'  http://localhost:8098/buckets/s10724/keys/Kowal -i
+curl –XPUT -H "Content-Type: application/json" -d '{"name": "Michael Taylor", "nationality": "England", "age": 26, "isHappy":false}'  http://localhost:8098/buckets/s10724/keys/Taylor -i

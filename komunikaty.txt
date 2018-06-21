@@ -1,0 +1,6 @@
+Person added
+Person{name='Adam', surname='Iksinski', age=25}
+Person updated
+Person{name='Adam', surname='Iksinski', age=30}
+Person deleted
+null

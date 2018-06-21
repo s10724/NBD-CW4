@@ -1,0 +1,1 @@
+curl -XDELETE http://localhost:8098/buckets/s10724/keys/Kowalski -i

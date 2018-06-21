@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/fjpp1JcxMKgLZjAlMuaxMswMWHCFLwsA
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s10724>; rel="up"
+Last-Modified: Thu, 21 Jun 2018 16:38:49 GMT
+ETag: "2G5Ui4zMKJXytlyI5te2Gi"
+Date: Thu, 21 Jun 2018 16:40:16 GMT
+Content-Type: application/json
+Content-Length: 24
+
+{"name": "Rafa³ Nowak"}
